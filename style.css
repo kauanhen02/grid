@@ -90,7 +90,7 @@ header p {
 
 main {
   display: grid;
-  grid-template-columns: repeat(3, 370px);
+  grid-template-columns: repeat(3, 37rem);
   place-content: center;
 
   margin-top: 62px;
@@ -132,6 +132,7 @@ header p {
   border: 2px solid #323238;
   border-radius: 8px;
   overflow: hidden;
+  
 }
 
 .card h2 {
