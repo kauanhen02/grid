@@ -15,7 +15,7 @@
 
 main {
   display: grid;
-  grid-template-rows: repear;
+  grid-template-rows: auto;
   place-content: center;
 
   margin-top: 3.1rem;
